@@ -1,0 +1,1 @@
+These are the basic project files for a Win32 .DLL file. 
